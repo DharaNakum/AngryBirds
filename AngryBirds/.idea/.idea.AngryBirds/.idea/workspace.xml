@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38244c7f-d109-4a24-b23e-35052aea6c95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/JayJakeJim.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Views/LevelSelectionView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC3985D3-7B02-41B4-8FC2-1474B2DE25BD/79/112b6200/JsonSerializerInternalReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Views/StartView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/JsonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/EnemyObject/Pig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC3985D3-7B02-41B4-8FC2-1474B2DE25BD/6e/c5c42269/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/GameManager/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Catapult/Catapult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC3985D3-7B02-41B4-8FC2-1474B2DE25BD/aa/de507b13/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/EnemyObject/Wood.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/Silver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/Chuck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/Red.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../AngryBird/Assets/AngryBird/Enemy/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/JayJake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/Bomb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/Bird.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../science-birds-master/Assets/Scripts/GameWorld/Characters/Birds/ABBird.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/GameEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/UiManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Background.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/Egg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Birds/Matilda.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Views/GamePlayView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AngryBird/Views/GameOverView.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Backgeound.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/Red.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Ui/Views/GamePlayView.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Ui/UiManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Views/LevelSelectionView.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/UiManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Views/GameOverView.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Views/StartView.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/Silver.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/Chuck.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/Matilda.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/JayJakeJim.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/JayJake.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/JSONHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Catapult/Catapult.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Background.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/Bird.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/GameEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/EnemyObject/Wood.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/Bomb.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Birds/Egg.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/EnemyObject/Pig.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/GameManager/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/JsonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/AngryBird/Views/GamePlayView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AeQsz67rZQ0UUJ01wmaz9UXF62" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991798" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.300164" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38244c7f-d109-4a24-b23e-35052aea6c95" name="Default Changelist" comment="" />
+      <created>1655367781219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655367781219</updated>
+      <workItem from="1655367787056" duration="14876000" />
+      <workItem from="1655440285127" duration="22032000" />
+      <workItem from="1655467361389" duration="3220000" />
+      <workItem from="1655702538378" duration="10469000" />
+      <workItem from="1655721121374" duration="2060000" />
+      <workItem from="1655727845538" duration="2277000" />
+      <workItem from="1655730239093" duration="146000" />
+      <workItem from="1655784865745" duration="350000" />
+      <workItem from="1655785342946" duration="9759000" />
+      <workItem from="1655800495150" duration="203000" />
+      <workItem from="1655800715608" duration="9649000" />
+      <workItem from="1655872097208" duration="2869000" />
+      <workItem from="1655974853085" duration="7959000" />
+      <workItem from="1656050011362" duration="5611000" />
+      <workItem from="1656068366019" duration="6577000" />
+      <workItem from="1656305757712" duration="9620000" />
+      <workItem from="1656323374022" duration="3655000" />
+      <workItem from="1656392119754" duration="3157000" />
+      <workItem from="1656497273750" duration="771000" />
+      <workItem from="1657775048781" duration="751000" />
+      <workItem from="1657792557176" duration="1529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655714941476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1655714941476" />
+    <state width="1860" height="371" key="GridCell.Tab.0.bottom" timestamp="1655730140876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140876" />
+    <state width="1860" height="371" key="GridCell.Tab.0.center" timestamp="1655730140876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140876" />
+    <state width="1860" height="371" key="GridCell.Tab.0.left" timestamp="1655730140876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140876" />
+    <state width="1860" height="371" key="GridCell.Tab.0.right" timestamp="1655730140876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140876" />
+    <state width="1860" height="371" key="GridCell.Tab.1.bottom" timestamp="1655730140876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140876" />
+    <state width="1860" height="371" key="GridCell.Tab.1.center" timestamp="1655730140876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140876" />
+    <state width="1860" height="371" key="GridCell.Tab.1.left" timestamp="1655730140876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140876" />
+    <state width="1860" height="371" key="GridCell.Tab.1.right" timestamp="1655730140876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140876" />
+    <state width="1860" height="371" key="GridCell.Tab.2.bottom" timestamp="1655730140877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140877" />
+    <state width="1860" height="371" key="GridCell.Tab.2.center" timestamp="1655730140877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140877" />
+    <state width="1860" height="371" key="GridCell.Tab.2.left" timestamp="1655730140877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140877" />
+    <state width="1860" height="371" key="GridCell.Tab.2.right" timestamp="1655730140877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140877" />
+    <state width="1860" height="371" key="GridCell.Tab.3.bottom" timestamp="1655730140877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140877" />
+    <state width="1860" height="371" key="GridCell.Tab.3.center" timestamp="1655730140877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140877" />
+    <state width="1860" height="371" key="GridCell.Tab.3.left" timestamp="1655730140877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140877" />
+    <state width="1860" height="371" key="GridCell.Tab.3.right" timestamp="1655730140877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="371" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1655730140877" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1655800756709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1655800756709" />
+    <state x="616" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1656073941529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="177" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1656073941529" />
+  </component>
+</project>
